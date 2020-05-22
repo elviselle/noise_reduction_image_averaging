@@ -7,6 +7,11 @@
 
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/IMG_6935.jpg)
 
-# Result
+# 平均後，降噪效果對比
+#### 原始 
 
-![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/average.jpg)
+![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/sample.png)
+
+#### 平均影像
+
+![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/averaging_result.png)
