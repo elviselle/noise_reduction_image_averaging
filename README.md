@@ -6,6 +6,7 @@
 ## 樣本 - 多張影像中的其中一張
 
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/IMG_6935.jpg)
+> 2/IMG_6935.jpg
 
 ## 降噪效果對比
 ### 原始影像 
