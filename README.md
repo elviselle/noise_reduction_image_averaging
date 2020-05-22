@@ -5,7 +5,7 @@
 
 # 樣本
 
-![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/IMG_6935.png)
+![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/IMG_6935.jpg)
 
 # Result
 
