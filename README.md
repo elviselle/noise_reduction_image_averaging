@@ -16,6 +16,6 @@
 
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/sample.png)
 
-### 平均影像
+### 平均影像降噪效果
 
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/averaging_result.png)
