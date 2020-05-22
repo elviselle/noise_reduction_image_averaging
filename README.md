@@ -7,7 +7,6 @@
 > 2/IMG_6935.jpg
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/IMG_6935.jpg)
 
-## 
 ## 降噪效果對比
 ### 原始影像 
 
