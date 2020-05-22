@@ -4,16 +4,17 @@ import os
 import numpy as np
 import cv2
 
-# 圖片檔副檔名
+# postfix file name
 SUPPORTED_EXTENSIONS = ["bmp", "png", "jpg", "jpeg", "JPG"]
 
-def dataset_files(root):
+# list images in folder
+def dataset_files(folder):
     return list(itertools.chain.from_iterable(
-        glob.glob(os.path.join(root, "*.{}".format(ext))) for ext in SUPPORTED_EXTENSIONS))
+        glob.glob(os.path.join(folder, "*.{}".format(ext))) for ext in SUPPORTED_EXTENSIONS))
 
-imgs = dataset_files("2")
+imgs = dataset_files("2")   # load images from folder
 pic1 = cv2.imread(imgs[0])
-avg_img = np.zeros(pic1.shape)
+avg_img = np.zeros(pic1.shape)   
 
 for i in range(len(imgs)):
     pic = cv2.imread(imgs[i])
@@ -21,7 +22,7 @@ for i in range(len(imgs)):
     avg_img += pic / len(imgs)
             
 avg_img = avg_img.astype(np.uint8)
-cv2.imwrite("average.jpg",avg_img)
+cv2.imwrite("average.jpg",avg_img)  # output averaging result to file
 
 cv2.imshow("res",avg_img)
 cv2.waitKey(0)
