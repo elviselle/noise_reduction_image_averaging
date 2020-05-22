@@ -8,11 +8,9 @@
 
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/IMG_6935.jpg)
 
-> 光圈: 8
-
-> 快門: 1/2 秒
-
-> ISO: 1600
+#### 光圈: 8
+#### 快門: 1/2 秒
+#### ISO: 1600
 
 
 ## 降噪效果對比
