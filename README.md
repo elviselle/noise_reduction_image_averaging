@@ -1,5 +1,4 @@
-# noise_reduction_image_averaging
-# Noise Reduction
+# Noise Reduction - 影像降噪
 
 #### 使用多張影像進行平均影像計算，達到降噪效果。
 
