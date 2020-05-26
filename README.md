@@ -1,6 +1,8 @@
 # Noise Reduction - 影像降噪
 
 ## 方法 - 使用多張影像進行平均影像計算，達到降噪效果。
+#### 雜訊為隨機發生，呈現高斯分佈，且期望值為 0。故取平均後可去除雜訊，樣本越多去雜訊效過越好。
+
 ## 樣本 - 多張影像中的其中一張
 > 2/IMG_6935.jpg (台中民俗公園)
 
@@ -20,4 +22,3 @@
 
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/averaging_result.png)
 
-#### 雜訊為隨機發生，呈現高斯分佈，且期望值為 0。故取平均後可去除雜訊，樣本越多去雜訊效過越好。
