@@ -19,3 +19,5 @@
 ### 平均影像降噪效果
 
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/averaging_result.png)
+
+#### 雜訊為隨機發生，呈現高斯分佈，且期望值為 0。故取平均後可去除雜訊，樣本越多去雜訊效過越好。
