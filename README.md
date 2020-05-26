@@ -20,7 +20,6 @@
 
 ### 平均影像降噪效果
 
-> 12張平均結果
-
 ![](https://github.com/elviselle/noise_reduction_image_averaging/blob/master/.readme_imgs/averaging_result.png)
 
+> 12張平均結果
