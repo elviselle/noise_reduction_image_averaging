@@ -1,4 +1,7 @@
 # Noise Reduction - 影像降噪
+> 本文與程式上傳至GitHub，連結 QR Code
+
+![](https://github.com/elviselle/image_stitching/blob/master/.readme_imgs/url_qrcode.png)
 
 ## 方法 - 使用多張影像進行平均影像計算，達到降噪效果。
 #### 雜訊為隨機發生，呈現高斯分佈，且期望值為 0。故取平均後可去除雜訊，樣本越多去雜訊效過越好。
